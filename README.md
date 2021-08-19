@@ -1,2 +1,0 @@
-# qb-dumpstersearch
-qb-dumpstersearch
